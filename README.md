@@ -33,6 +33,7 @@ For this Power BI project, I worked with a dynamic inventory dataset and designe
 - Supply Chain Management
 
   ## Dashboard
-![](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/E%20COMMERSE%20SALES.PNG)
+![Page1](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
+![Page2](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
 
 
