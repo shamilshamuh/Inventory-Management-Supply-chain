@@ -62,7 +62,7 @@ Contact
 👤 Muhammed Shamil PP
 📧 ![Email](shamilmohd26@gmail.com)
 
-🌐 LinkedIn Profile ![linkedin](hhttps://www.linkedin.com/in/muhammedshamilpp)
+🌐 LinkedIn Profile ![linkedin](https://www.linkedin.com/in/muhammedshamilpp)
 
   ## Dashboard
 ![Page1](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
