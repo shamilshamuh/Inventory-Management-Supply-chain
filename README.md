@@ -60,12 +60,12 @@ Pull requests are welcome! If you’d like to improve the visuals, add features,
 Contact
 
 👤 Muhammed Shamil PP
-📧 ![Email](shamilmohd26@gmail.com)
+📧 ![Email](https://ww.gmail.com/in/shamilmohd26@gmail.com)
 
 - **LinkedIn**: [Muhammed shamil-linkedin ](https://www.linkedin.com/in/muhammedshamilpp)
 
   ## Dashboard
 ![Page1](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
-![Page2](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
+![Page2](hhttps://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%202.png)
 
 
