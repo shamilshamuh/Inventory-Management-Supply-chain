@@ -1,5 +1,6 @@
 # Inventory-Management-Supply-chain
-For this Power BI project, I worked with a dynamic inventory dataset and designed an interactive, insight-rich dashboard. My goal was simple: empower smarter decision making with real-time product and supply chain intelligence.
+This project presents an interactive Inventory Management Dashboard built using Power BI, designed to provide actionable insights into stock levels, supplier performance, and product restocking trends.
+It helps businesses monitor stock availability, identify top-performing categories, analyze supplier lead times, and optimize restocking decisions.
 
 - **Dataset Link:** [Dataset](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20Management_Analysis.xlsx)
 **🛒 E-Commerce Sales Analysis Dashboard**
@@ -26,11 +27,42 @@ For this Power BI project, I worked with a dynamic inventory dataset and designe
  # Presentation Experience
  Presenting this dashboard was an exciting opportunity to dive deeper into analytical storytelling. I focused on connecting dots between data patterns and real supply chain decisions using DAX, clean design, and user friendly interactions.
 For this Power BI project, I worked with a dynamic inventory dataset and designed an interactive, insight-rich dashboard. My goal was simple: empower smarter decision making with real-time product and supply chain intelligence. 
-# Skills:
-- DAX ·
-- Microsoft Power Query ·
-- Microsoft Power BI ·
-- Supply Chain Management
+# Tools & Technologies
+
+- Power BI for Dashboard creation & data visualization
+
+- Excel / CSV for Data preprocessing and transformation
+
+- DAX for Calculations and measures
+  
+# Insights Derived
+
+- The average supplier lead time is ~15 days, with some suppliers taking up to 17+ days.
+
+- Certain products are consistently out of stock, highlighting restocking inefficiencies.
+
+- Germany, Spain, and Belgium store the highest number of products.
+
+- Categories like Books, Clothing, and Home & Garden show the fastest turnover.
+# Applications
+
+- Inventory and warehouse optimization
+
+- Supplier performance monitoring
+
+- Demand forecasting
+
+- Stock replenishment planning
+ # 🤝 Contribution
+
+Pull requests are welcome! If you’d like to improve the visuals, add features, or optimize calculations, feel free to contribute.
+
+Contact
+
+👤 Muhammed Shamil PP
+📧 ![Email](shamilmohd26@gmail.com)
+
+🌐 LinkedIn Profile ![linkedin](hhttps://www.linkedin.com/in/muhammedshamilpp)
 
   ## Dashboard
 ![Page1](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
