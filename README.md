@@ -23,5 +23,16 @@ For this Power BI project, I worked with a dynamic inventory dataset and designe
 5. Product Portfolio at a Glance
 - Total product count with data-backed segmentation and insights
 - Dynamic visuals for instant strategic exploration
+ # Presentation Experience
+ Presenting this dashboard was an exciting opportunity to dive deeper into analytical storytelling. I focused on connecting dots between data patterns and real supply chain decisions using DAX, clean design, and user friendly interactions.
+For this Power BI project, I worked with a dynamic inventory dataset and designed an interactive, insight-rich dashboard. My goal was simple: empower smarter decision making with real-time product and supply chain intelligence. 
+# Skills:
+- DAX ·
+- Microsoft Power Query ·
+- Microsoft Power BI ·
+- Supply Chain Management
+
+  ## Dashboard
+![](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/E%20COMMERSE%20SALES.PNG)
 
 
