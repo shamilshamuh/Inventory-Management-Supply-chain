@@ -1,6 +1,9 @@
 # Inventory-Management-Supply-chain
 For this Power BI project, I worked with a dynamic inventory dataset and designed an interactive, insight-rich dashboard. My goal was simple: empower smarter decision making with real-time product and supply chain intelligence.
 
+- **Dataset Link:** [Dataset](https://github.com/shamilshamuh/E-COMMERCE-SALES-ANALYSIS/blob/main/Ecommerce%20Sales%20Analysis.xlsx%20-%20Data.csv)
+**🛒 E-Commerce Sales Analysis Dashboard**
+
 # KEY INSIGHTS & DATA STORIES FROM THE DASHBOARD
 1. Stock Overview & Alerts
 - Total quantity of inventory available across all SKUs
@@ -20,3 +23,5 @@ For this Power BI project, I worked with a dynamic inventory dataset and designe
 5. Product Portfolio at a Glance
 - Total product count with data-backed segmentation and insights
 - Dynamic visuals for instant strategic exploration
+
+
