@@ -66,6 +66,6 @@ Pull requests are welcome! If you’d like to improve the visuals, add features,
 
   ## Dashboard
 ![Page1](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%201.png)
-![Page2](hhttps://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%202.png)
+![Page2](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20dashboard%202.png)
 
 
