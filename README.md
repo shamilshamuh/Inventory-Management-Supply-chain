@@ -57,10 +57,10 @@ For this Power BI project, I worked with a dynamic inventory dataset and designe
 
 Pull requests are welcome! If you’d like to improve the visuals, add features, or optimize calculations, feel free to contribute.
 
-Contact
+# Contact
 
 👤 Muhammed Shamil PP
-📧 ![Email](https://ww.gmail.com/in/shamilmohd26@gmail.com)
+📧 **Email**: [shamilmohd26@gmail.com](mailto:shamilmohd26@gmail.com)  
 
 - **LinkedIn**: [Muhammed shamil-linkedin ](https://www.linkedin.com/in/muhammedshamilpp)
 
