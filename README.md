@@ -3,7 +3,7 @@ This project presents an interactive Inventory Management Dashboard built using 
 It helps businesses monitor stock availability, identify top-performing categories, analyze supplier lead times, and optimize restocking decisions.
 
 - **Dataset Link:** [Dataset](https://github.com/shamilshamuh/Inventory-Management-Supply-chain/blob/main/Inventory%20Management_Analysis.xlsx)
-**🛒 E-Commerce Sales Analysis Dashboard**
+**🛒 Inventory Management Supply Chain**
 
 # KEY INSIGHTS & DATA STORIES FROM THE DASHBOARD
 1. Stock Overview & Alerts
